@@ -4803,6 +4803,13 @@ graphql@0.9.1, graphql@^14.3.1, graphql@^14.5.3, graphql@~14.2.1:
   dependencies:
     iterall "^1.2.2"
 
+graphql@^14.7.0:
+  version "14.7.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.7.0.tgz#7fa79a80a69be4a31c27dda824dc04dac2035a72"
+  integrity sha512-l0xWZpoPKpppFzMfvVyFmp9vLN7w/ZZJPefUicMCepfJeQ8sMcztloGYY9DfjVPo6tIUDzU5Hw3MUbIjj9AVVA==
+  dependencies:
+    iterall "^1.2.2"
+
 graphqurl@^0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/graphqurl/-/graphqurl-0.3.3.tgz#3fb8504b1230ec0142e7ac8357625411997ea08b"
