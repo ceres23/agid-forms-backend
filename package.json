@@ -76,7 +76,7 @@
     "redis": "^2.8.0",
     "redis-clustr": "^1.6.0",
     "ulid": "^2.2.2",
-    "winston": "^3.0.0",
+    "winston": "^3.3.0",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
